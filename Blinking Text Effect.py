@@ -1,0 +1,1 @@
+def _start_blink(self):
