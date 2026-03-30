@@ -1,0 +1,1 @@
+def _draw_win_snake(self):
